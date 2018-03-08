@@ -1,0 +1,43 @@
+.hamburger {
+    height: 60px;
+    padding: 0;
+}
+
+.nav {
+    height: 25px;
+    padding: 0;
+}
+
+.hero {
+    height: 400px;
+    padding: 0;
+}
+
+.blurb {
+    height: 25px;
+    padding: 0;
+    margin-top: 30px;
+}
+
+.main-info {
+    height: 200px;
+    padding: 0;
+    margin-right: 30px;
+}
+
+.little-info {
+    margin: 0;
+    height: 200px;
+}
+
+.margin-30 {
+    margin: 20px;
+}
+
+.margin-n {
+    margin: 20px 0 0 30px;
+}
+
+.bg-dark {
+    background-color: black;
+}
